@@ -43,7 +43,14 @@ namespace LeetCode
             }
             return node;
         }
-       
+        public TreeNode SortedArrayToBST(int[] nums)
+        {
+            foreach (int x in nums)
+            {
+                Insert(x);
+            }
+            return root;
+        }
         public void Inorder()
         {
             IList<int> list = InorderTraversal(root);
@@ -66,5 +73,26 @@ namespace LeetCode
             }
             return list;
         }
+
+        public TreeNode SearchBST(TreeNode root, int val)
+        {
+            if(root == null)
+            {
+                return null;
+            }
+            if(root.val == val)
+            {
+                return root;
+            }
+            else if(val < root.val)
+            {
+                return SearchBST(root.left, val);
+            }
+            else 
+            { 
+                return SearchBST(root.right, val);
+            }
+        }
+       
     }
 }

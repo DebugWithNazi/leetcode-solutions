@@ -14,6 +14,8 @@ solution.Insert(6);
 solution.Insert(7);
 solution.Insert(9);
 
-// Print the inorder traversal of the tree
+//// Print the inorder traversal of the tree
 Console.WriteLine("Inorder Traversal of the Tree:");
 solution.Inorder();
+int[] nums = new int[] { -10, -3, 0, 5, 9 };
+solution.SortedArrayToBST(nums);
