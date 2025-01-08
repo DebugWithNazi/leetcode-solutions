@@ -1,0 +1,15 @@
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\bin\Debug\net8.0\usacoTask1.exe
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\bin\Debug\net8.0\usacoTask1.deps.json
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\bin\Debug\net8.0\usacoTask1.runtimeconfig.json
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\bin\Debug\net8.0\usacoTask1.dll
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\bin\Debug\net8.0\usacoTask1.pdb
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.AssemblyInfoInputs.cache
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.AssemblyInfo.cs
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.csproj.CoreCompileInputs.cache
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.sourcelink.json
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.dll
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\refint\usacoTask1.dll
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.pdb
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\usacoTask1.genruntimeconfig.cache
+E:\Freelancing\Preparation\leetcode\usacoTasks\usacoTasks\obj\Debug\net8.0\ref\usacoTask1.dll
