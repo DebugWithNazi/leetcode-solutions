@@ -1,0 +1,15 @@
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\bin\Debug\net8.0\Practice.exe
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\bin\Debug\net8.0\Practice.deps.json
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\bin\Debug\net8.0\Practice.dll
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\bin\Debug\net8.0\Practice.pdb
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.sourcelink.json
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.dll
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\refint\Practice.dll
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.pdb
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+E:\Freelancing\Preparation\leetcode\leetcode3\Practice\obj\Debug\net8.0\ref\Practice.dll
